@@ -1,0 +1,5 @@
+{
+  "name": "React Mobile Calculator",
+  "description": "A fully functional mobile calculator application built with React and Tailwind CSS. It mimics the design and behavior of a real smartphone calculator, handling standard arithmetic operations with a clean, responsive interface.",
+  "requestFramePermissions": []
+}
